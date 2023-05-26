@@ -1,5 +1,7 @@
 # pygui
 
+给manga-image-translator做的界面
+
 1. 配置好python环境后，假设翻译目录是 D:/trans, 配置的python环境在 D:/trans/scripts
 2. 打开 D:/trans/scripts, 地址栏输入 cmd ,然后在弹出cmd界面中执行命令 `activate`,再执行命令 `cd .. `
 3. 安装库,继续在该 cmd界面中执行命令 `pip install PySimpleGUI`
