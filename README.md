@@ -9,7 +9,7 @@
 5. 也可右键编辑 start.bat ，修改里面的目录为正确的目录后，直接双击 start.bat 执行显示界面窗口
 
 
-
+![QQ截图20230527010246](https://github.com/1439707509/pygui/assets/128567416/faf0a4e6-afd9-42ff-a879-a27a744ccc61)
 ![QQ截图20230526233529](https://github.com/1439707509/pygui/assets/128567416/7d5b1a99-42a3-4615-9d51-9047d1449290)
 ![QQ截图20230526233723](https://github.com/1439707509/pygui/assets/128567416/63279a89-3f47-4a5d-a569-c1c35bdee6f3)
 ![QQ截图20230526233736](https://github.com/1439707509/pygui/assets/128567416/66af7212-508b-4c5e-b62e-3fb85c58fd1b)
