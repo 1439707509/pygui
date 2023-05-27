@@ -2,6 +2,8 @@
 
 给manga-image-translator做的界面
 
+发行的需要全部下来，然后把 Lib扔到，trans 里面，Lib是分卷压缩
+
 打包好的文件 链接：https://pan.baidu.com/s/1KxB6zBQj7XaEcRXrfxE4mg?pwd=orlo 提取码：orlo 
 
 1. 配置好python环境后，假设翻译目录是 D:/trans, 配置的python环境在 D:/trans/scripts
