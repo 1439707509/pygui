@@ -12,4 +12,11 @@
 4. 然后继续执行 `python win.py` 即可显示界面窗口
 5. 也可右键编辑 start.bat ，修改里面的目录为正确的目录后，直接双击 start.bat 执行显示界面窗口
 
+
+![1](https://github.com/1439707509/pygui/assets/128567416/bfb69910-3430-428c-8486-141d900d5a1f)
+![2](https://github.com/1439707509/pygui/assets/128567416/e58861e1-c6d0-4ed5-b3c9-b0861f9fa4ae)
+![3](https://github.com/1439707509/pygui/assets/128567416/df598dda-2766-4833-81d9-1a7fd36453d4)
+![4](https://github.com/1439707509/pygui/assets/128567416/c6c31f9e-a30b-42c1-baac-d333480f41c5)
+
+
 2023.5.28 添加了分辨率选项
