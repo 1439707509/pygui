@@ -1,8 +1,8 @@
 # pygui
 
-给manga-image-translator做的界面
+给manga-image-translator做的界面，写死在d盘下，只能放在d盘里运行
 
-发行的需要全部下来，然后把 Lib扔到，trans 里面，Lib是分卷压缩
+发行的需要全部下来，然后把Lib扔到，trans 里面，Lib是分卷压缩
 
 打包好的文件 链接：https://pan.baidu.com/s/1KxB6zBQj7XaEcRXrfxE4mg?pwd=orlo 提取码：orlo（不是最新的了，自己把最新的源码扔进文件里覆盖吧）
 
@@ -13,12 +13,3 @@
 5. 也可右键编辑 start.bat ，修改里面的目录为正确的目录后，直接双击 start.bat 执行显示界面窗口
 
 2023.5.28 添加了分辨率选项
-![QQ截图20230528114500](https://github.com/1439707509/pygui/assets/128567416/5de36bdb-b90d-42c7-90f2-7108b59076c9)
-
-
-![QQ截图20230527010246](https://github.com/1439707509/pygui/assets/128567416/faf0a4e6-afd9-42ff-a879-a27a744ccc61)
-![QQ截图20230526233529](https://github.com/1439707509/pygui/assets/128567416/7d5b1a99-42a3-4615-9d51-9047d1449290)
-![QQ截图20230526233723](https://github.com/1439707509/pygui/assets/128567416/63279a89-3f47-4a5d-a569-c1c35bdee6f3)
-![QQ截图20230526233736](https://github.com/1439707509/pygui/assets/128567416/66af7212-508b-4c5e-b62e-3fb85c58fd1b)
-![QQ截图20230526233819](https://github.com/1439707509/pygui/assets/128567416/f0fc99ba-23da-4c70-9448-59420c80a8e4)
-![QQ截图20230526233832](https://github.com/1439707509/pygui/assets/128567416/f000da58-7ca8-4398-b130-11afbc3ca92f)
