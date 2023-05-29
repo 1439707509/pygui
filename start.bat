@@ -1,3 +1,3 @@
 @echo off
 
-start D:\trans\Scripts\python.exe D:\trans\win.py
+start ./Scripts/python.exe win.py
