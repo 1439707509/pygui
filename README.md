@@ -2,7 +2,9 @@
 
 给manga-image-translator做的界面，所有库都写死在d盘下，只能放在d盘里运行，没有可以看这个改 https://jingyan.baidu.com/article/d8072ac48f8332ad95cefda8.html
 
-我系统是win11，安装的是  python 3.10.10（64-bit），配置是13900k+4090
+我系统是win11，安装的是 python 3.10.10（64-bit），配置是13900k+4090
+
+python在这里下载https://www.python.org/downloads/windows/
 
 发行的需要全部下来，再解压，因为是分卷压缩
 
