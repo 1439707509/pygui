@@ -11,8 +11,9 @@
 3. 安装库,继续在该 cmd界面中执行命令 `pip install PySimpleGUI`
 4. 然后继续执行 `python win.py` 即可显示界面窗口
 5. 也可右键编辑 start.bat ，修改里面的目录为正确的目录后，直接双击 start.bat 执行显示界面窗口
-6. 
+
 2023.5.30 d:/trans/scripts 添加 py3langid
+
 2023.5.28 界面添加了分辨率选项
 
 
