@@ -4,8 +4,6 @@
 
 发行的需要全部下来，再解压，因为是分卷压缩
 
-更新太频繁，等那天稳定了再发打包版
-
 1. 配置好python环境后，假设翻译目录是 D:/trans, 配置的python环境在 D:/trans/scripts
 2. 打开 D:/trans/scripts, 地址栏输入 cmd ,然后在弹出cmd界面中执行命令 `activate`,再执行命令 `cd .. `
 3. 安装库,继续在该 cmd界面中执行命令 `pip install PySimpleGUI`
