@@ -1,6 +1,10 @@
 # pygui
 
-给manga-image-translator做的界面，所有库都写死在d盘下，只能放在d盘里运行，没有可以看这个改 https://jingyan.baidu.com/article/d8072ac48f8332ad95cefda8.html
+给manga-image-translator做的界面
+
+源码很少更新，只是挂出来，让原作者看到，想让他内置到原代码里面，请下载发行，里面全整和了
+
+所有库都写死在d盘下，只能放在d盘里运行，没有可以看这个改 https://jingyan.baidu.com/article/d8072ac48f8332ad95cefda8.html
 
 我系统是win11，安装的是 python 3.10.10（64-bit），配置是13900k+4090
 
