@@ -6,9 +6,9 @@
 
 python在这里下载https://www.python.org/downloads/windows/
 
-安装好 python 3.10.10 后，进入 D:/trans下打开 cmd 执行  pip install -r requirements.txt
-
 发行的需要全部下来，再解压，因为是分卷压缩
+
+安装好 python 3.10.10 和下载解压完trans，放到d盘根目录，进入 D:/trans下打开 cmd 执行  pip install -r requirements.txt
 
 1. 配置好python环境后，假设翻译目录是 D:/trans, 配置的python环境在 D:/trans/scripts
 2. 打开 D:/trans/scripts, 地址栏输入 cmd ,然后在弹出cmd界面中执行命令 `activate`,再执行命令 `cd .. `
