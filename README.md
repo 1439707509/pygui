@@ -25,6 +25,9 @@ python在这里下载https://www.python.org/downloads/windows/
 ![2](https://github.com/1439707509/pygui/assets/128567416/e58861e1-c6d0-4ed5-b3c9-b0861f9fa4ae)
 ![3](https://github.com/1439707509/pygui/assets/128567416/df598dda-2766-4833-81d9-1a7fd36453d4)
 ![4](https://github.com/1439707509/pygui/assets/128567416/c6c31f9e-a30b-42c1-baac-d333480f41c5)
+![6666](https://github.com/1439707509/pygui/assets/128567416/baf32815-1233-48a7-b7ac-e3dc146a9616)
+![66](https://github.com/1439707509/pygui/assets/128567416/ed9d8b86-5587-4627-8b86-6272072136c5)
+
 
 
 
