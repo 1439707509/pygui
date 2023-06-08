@@ -6,6 +6,8 @@
 
 你可以自己下载源码，然后导入zip包，升级
 
+.env 填key
+
 所有库都写死在d盘下，只能放在d盘里运行，没有可以看这个改 https://jingyan.baidu.com/article/d8072ac48f8332ad95cefda8.html
 
 我系统是win11，安装的是 python 3.10.10（64-bit），配置是13900k+4090
@@ -33,6 +35,7 @@ python在这里下载https://www.python.org/downloads/windows/
 ![4](https://github.com/1439707509/pygui/assets/128567416/c6c31f9e-a30b-42c1-baac-d333480f41c5)
 ![6666](https://github.com/1439707509/pygui/assets/128567416/baf32815-1233-48a7-b7ac-e3dc146a9616)
 ![66](https://github.com/1439707509/pygui/assets/128567416/ed9d8b86-5587-4627-8b86-6272072136c5)
+![QQ截图20230609004652](https://github.com/1439707509/pygui/assets/128567416/73c96d00-d99e-4f1d-9ccb-8b3d6f990cbd)
 
 
 
